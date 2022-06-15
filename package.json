@@ -1,0 +1,10 @@
+{
+    "name": "vidarl-ibexa-util",
+    "version": "1.0.0",
+    "description": "Vidar Ibexa Util",
+    "repository": "https://github.com/vidarl/ibexa-util.git",
+    "private": false,
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {}
+}

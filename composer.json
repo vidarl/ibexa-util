@@ -1,0 +1,14 @@
+{
+    "name": "vidarl/ibexa-util",
+    "description": "Util bundle for Ibexa DXP",
+    "type": "symfony-bundle",
+    "license": "GPL-2.0-only",
+    "autoload": {
+        "psr-4": {
+            "VidarL\\Bundle\\IbexaUtil\\": "src/bundle/"
+        }
+    },
+    "require": {
+        "php": "^7.1 || ^7.2 || ^7.3 || ^8.0"
+    }
+}
